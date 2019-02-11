@@ -13,7 +13,7 @@
 3) Memorizzazione movimenti //Raspberry
     1- Hardware pulsanti
     2- Software pulsanti (imposto il timer con le frecce e con il tasto centrale inizio la registrazione) 
-    2- Software che gestisca l'audio durante la registrazione
+    3- Software che gestisca l'audio durante la registrazione
     4- Interfaccia audio (registrazione dei suoni)
     5- Precaricamento degli esercizi (registrazione fisica degli esercizi e dei relativi dati su DB) 
 
