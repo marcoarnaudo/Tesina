@@ -1,8 +1,8 @@
 1) Rilevamento del movimento //Raspberry
     1- Hardware Collegamenti
-    2- Hardware Raspberry(riceve e invia i dati al computer)
+    2- Hardware Raspberry (riceve e invia i dati al computer)
     3- Hardware Audio
-    4- Harware multiplexer
+    4- Harware multiplexer (aumenta il numero di porte del raspeberry)
     5- Software multiplexer (per demultiplexare) 
     6- Software (Python) che legge dati dai sensori
     7- Software (Python) Invio dati al server
